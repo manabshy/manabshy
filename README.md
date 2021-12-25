@@ -5,7 +5,6 @@
 
 ## I'm a Developer, Coach and Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently working on Angular,TypeScript,GraphQL,React,Javascript
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -43,35 +42,6 @@
 <br />
 <br />
 
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [STACKr News Weekly: 2022 Web Dev Roadmap 🛣, Sabotaging your career? 🐱‍👤, It&#39;s ok to take a break 🏖](https://www.youtube.com/watch?v=zrEKyscb15A)
-- [NEW!! Web Developer Roadmap 2022 | Ultimate Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=7uJGjbkp0-U)
-- [STACKr News Weekly: Inspiring Dev Stories 🚀, Create 10k NFT Collection without Web3 Knowledge! 🤯](https://www.youtube.com/watch?v=z2vpcQjpqno)
-- [Top VS Code Updates | v1.63 Released!! | Tips &amp; Tricks 2021 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=q4F9OSon2n0)
-- [ZERO Gas Purchases on OpenSea!! How to buy NFTs on Polygon](https://www.youtube.com/watch?v=peJ9zgNhyh0)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -93,12 +63,9 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://chatresh.co.uk
+[instagram]: https://instagram.com/mjasthetics
+[linkedin]: https://linkedin.com/in/mjbisht
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
