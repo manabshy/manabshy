@@ -1,14 +1,15 @@
-### Hi there, I'm MJ 👋 
+### Hi there, I'm MJ Bisht - aka [codeSTACKr][website] 👋 
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://chatresh.co.uk)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Developer, Teacher, Coach !!
+## I'm a Developer, Coach and Teacher!!
 
-- 🌱 I’m currently working with Angular,Typescript and JavaScript
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m currently working on Angular,TypeScript,GraphQL,React,Javascript
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Juggle, train in the gym and train learners at BrainStation 
-- 
+- ⚡ Fun fact: I love to train in the Gym and juggle balls
 
 ### Connect with me:
 
@@ -92,8 +93,13 @@
 
 </details>
 
-[website]: https://chatresh.co.uk
+[website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/mjasthetics
-[linkedin]: https://www.linkedin.com/in/mjbisht
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
