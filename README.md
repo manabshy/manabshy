@@ -1,13 +1,13 @@
 ### Hi there, I'm MJ 👋 
 
-[![Website](https://chatresh.co.uk)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://chatresh.co.uk)
 
-## I'm a Husband, Father, Developer, Peronal Trainer and Teacher!!
+## I'm a Developer, Teacher, Coach !!
 
 - 🌱 I’m currently working with Angular,Typescript and JavaScript
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Juggle, train the gym and train learners at BrainStation 
+- ⚡ Fun fact: I love to Juggle, train in the gym and train learners at BrainStation 
 - 
 
 ### Connect with me:
