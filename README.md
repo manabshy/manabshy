@@ -1,15 +1,14 @@
 ### Hi there, I'm MJ 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://chatresh.co.uk)
 
 ## I'm a Husband, Father, Developer, Peronal Trainer and Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently working with Angular,Typescript and JavaScript
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to Juggle, train the gym and train learners at BrainStation 
+- 
 
 ### Connect with me:
 
@@ -93,7 +92,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://chatresh.co.uk
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
