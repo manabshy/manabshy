@@ -1,6 +1,6 @@
 ### Hi there, I'm MJ Bisht - aka [chatresh][website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://chatresh.co.uk)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://chatresh.co.uk)
 
 
 ## I'm a Developer, Coach and Teacher!!
