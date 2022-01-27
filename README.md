@@ -46,7 +46,7 @@
 
 
 [website]: https://chatresh.co.uk
-[instagram]: https://instagram.com/mjasthetics
+[instagram]: https://instagram.com/jmasthetics
 [linkedin]: https://linkedin.com/in/mjbisht
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
