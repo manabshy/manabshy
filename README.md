@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://chatresh.co.uk)
 
 
-## I'm a Developer, Coach and Teacher!!
+# A Developer, Coach and All-Stack!!
 
 - 🌱 I’m currently working on Angular,TypeScript,GraphQL,React,Javascript
 - 👯 I’m looking to collaborate with other content creators
