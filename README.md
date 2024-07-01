@@ -5,7 +5,7 @@
 
 # A Developer, Coach @ All-Stack!!
 
-- 🌱 I’m currently working on Angular,TypeScript,GraphQL,React,Javascript
+- 🌱 I’m currently working on Angular,TypeScript,GraphQL,React,Node,Javascript
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Functional programming, Golang 
 - ⚡ Fun fact: I love to train in the Gym and passion for high-performance cars
