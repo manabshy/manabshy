@@ -8,8 +8,7 @@
 - 🌱 I’m currently working on Angular,TypeScript,GraphQL,React,Node,Javascript
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Functional programming, Golang 
-- ⚡ Fun fact: I love to train in the Gym and passion for high-performance cars
-
+- ⚡ Fun fact: I'm passionate about training in the Gym and have a strong love for high-performance cars.
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
