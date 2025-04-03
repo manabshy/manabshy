@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on TypeScript,Python,GraphQL,React,Angular,Node,Javascript
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Functional programming, Golang 
+- 🥅 2025 Goals: Functional programming, Python 
 - ⚡ Fun fact: I'm passionate about training in the Gym and have a strong love for high-performance cars.
 ### Connect with me:
 
