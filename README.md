@@ -1,12 +1,12 @@
-### Hi there, I'm MJ Bisht - aka [Code Developer Expert][website] 👋 
+### Hi there, I'm MJ Bisht - aka [Chatresh Consultants] 👋 
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://chatresh.co.uk/)
 
 # A Developer, Coach @ All-Stack!! <img align="right" src="https://camo.githubusercontent.com/37969586d7cf7365aa89673a8289c7c7848e9188402ee1a91328632a39d12cbd/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" width="150" />
 
-- 🌱 I’m currently working on TypeScript,Python,GraphQL,React,Angular,Node,Javascript
+- 🌱 I’m currently Working with TypeScript,Python,GraphQL,React,Angular,Node,Javascript,AWS,Azure
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Functional programming, Generative AI
+- 🥅 2026 Goals: ScaleUp () => `Chatresh Consultants`
 - ⚡ Fun fact: I'm passionate about training in the Gym and have a strong love for high-performance cars.
 
 ### Connect with me:
